@@ -71,6 +71,8 @@
 ### Key Features <a name="key-features"></a>
 
 - **Leaderboard displays the scores submitted by different players**
+- **Leaderboard displays the scores submitted by different players from the given api**
+- **Add functionalities to add scores through the form** 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -129,8 +131,8 @@ To run the project, execute the following command:
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-- [ ] **Add functionalities to add scores through the form**
-- [ ] **Add functionalities to upload and retrieve scores from the API**
+- [ ] **styling will be implemented**
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
