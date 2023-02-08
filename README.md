@@ -121,7 +121,7 @@ To run the project, execute the following command:
 
 👤 **Dennis Every**
 
-- GitHub: [@dennis-every](https://github.com/fithamlak)
+- GitHub: [@fithamlak](https://github.com/fithamlak)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
