@@ -1,5 +1,5 @@
 const api = 'https://us-central1-js-capstone-backend.cloudfunctions.net/api/';
-const resourceUrl = `${api}/games/Zl4d7IVkemOTTVg2fUdz/scores/`;
+const resourceUrl = `${api}games/Zl4d7IVkemOTTVg2fUdz/scores/`;
 
 export const feachScores = async () => {
   const request = await fetch(resourceUrl);
