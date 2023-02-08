@@ -17,12 +17,16 @@
         <h1>Leaderboard</h1>
         <div class="row">
           <div class="col">
-            <h3>
-              Recent scores
-              <button id="refresh" type="button" class="btn btn-light border border-dark">
-                Refresh
-              </button>
-            </h3>
+            <div class="row">
+              <div class="col-9">
+                <h3>Recent scores</h3>
+              </div>
+              <div class="col-3">
+                <button id="refresh" type="button" class="btn btn-light border border-dark">
+                 Refresh
+                </button>
+              </div>
+            </div>  
             <table class="table table-striped">
               <tbody id="tb"></tbody>
             </table>
