@@ -15,7 +15,7 @@
   \**********************/
 /***/ (() => {
 
-eval("\n\n//# sourceURL=webpack://leaderboard/./src/index.js?");
+eval("const tabel = document.querySelector('#tb');\nconst scorsArray = [100, 20, 50, 78, 125, 77, 42];\n\nfor (let i = 0; i < scorsArray.length; i += 1) {\n  const tr = document.createElement('tr');\n  const td = document.createElement('td');\n  td.innerText = `name: ${scorsArray[i]}`;\n  tr.appendChild(tr);\n  tabel.appendChild(tr);\n}\n\n//# sourceURL=webpack://leaderboard/./src/index.js?");
 
 /***/ })
 
