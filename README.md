@@ -36,7 +36,7 @@
 
 # 📖 About <a name="about"></a>
 
-**Leaderboard** is a website which displays scores submitted by different players.
+**Leaderboard** is a website which displays scores submitted by different players It uses api to feach and store data.
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -72,7 +72,8 @@
 
 - **Leaderboard displays the scores submitted by different players**
 - **Leaderboard displays the scores submitted by different players from the given api**
-- **Add functionalities to add scores through the form** 
+- **Add functionalities to add scores through the form**
+- **add styling**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -131,7 +132,7 @@ To run the project, execute the following command:
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-- [ ] **styling will be implemented**
+- [ ] **Unit test may be implemented**
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
