@@ -2,6 +2,7 @@ const tabel = document.querySelector('#tb');
 const display = (game) => {
   const scoreElement = document.createElement('tr');
   const td = document.createElement('td');
+  td.classList.add('tabeleRow');
   td.innerText = `${game.user}: ${game.score}`;
   scoreElement.appendChild(td);
   tabel.appendChild(scoreElement);
