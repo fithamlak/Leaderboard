@@ -122,7 +122,7 @@ To run the project, execute the following command:
 
 ## 👥 Author <a name="author"></a>
 
-👤 **Dennis Every**
+👤 **Fithamlak Fikrie**
 
 - GitHub: [@fithamlak](https://github.com/fithamlak)
 
